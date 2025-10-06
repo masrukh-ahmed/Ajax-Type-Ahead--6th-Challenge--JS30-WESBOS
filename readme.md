@@ -8,7 +8,7 @@ I approached this challenge in **two parts**:
 
    * Followed the original tutorial closely to understand how data fetching, regex matching, and dynamic DOM updates work.
    * Practiced and broke down each concept for deeper understanding.
-<video controls src="1st_design.mp4" title="1st_design_demo"></video>
+![1st Design Demo GIF](1st_design-ezgif.com-video-to-gif-converter.gif)
 2. **Active Recall & Redesign (Part 2)**
 
    * Rebuilt the project from scratch without referring back to the tutorial, applying all concepts learned.
@@ -20,7 +20,8 @@ I approached this challenge in **two parts**:
 
        * 🟢 Positive growth
        * 🔴 Negative growth
-<video controls src="2nd_design.mp4" title="2nd_design_demo"></video>
+       
+![2nd Design Demo GIF](2nd_design-ezgif.com-optimize.gif)
 ---
 
 ## 🔑 Concepts Learned
